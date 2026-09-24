@@ -1,0 +1,21 @@
+{
+  "version": "4.0.15",
+  "buildId": "20260917.round11",
+  "generatedAt": "2026-09-24T05:52:48.961Z",
+  "files": {
+    "manifest.json": "109ea2271080ca459e01aa8f7ce03332903ab4c27059223599263df6d044df25",
+    "background.js": "eaa425013995e404d981384bc870b7e5f1e9b0924a087dcabe58b542c5db4373",
+    "content.js": "1a176fe733d91462dc5c37e0c1af5fd827fdeeea703488a6dcc31260482f3e1f",
+    "fill-engine.mjs": "e1674402d7ff784388819f6c948726168deb4ad6bdf652da7c697cd94b06d8c6",
+    "step-protocol.mjs": "6a2def12dc9ec9b969e8758176e8e4c758c3c720de6dfdc7e349b66288c2483b",
+    "dist-popup/index.html": "f63a804bad320d16a7cb23179d223e10f2485bdad7c743a0f70c499a9bb14aa7"
+  },
+  "hashes": {
+    "manifest.json": "109ea2271080ca459e01aa8f7ce03332903ab4c27059223599263df6d044df25",
+    "background.js": "eaa425013995e404d981384bc870b7e5f1e9b0924a087dcabe58b542c5db4373",
+    "content.js": "1a176fe733d91462dc5c37e0c1af5fd827fdeeea703488a6dcc31260482f3e1f",
+    "fill-engine.mjs": "e1674402d7ff784388819f6c948726168deb4ad6bdf652da7c697cd94b06d8c6",
+    "step-protocol.mjs": "6a2def12dc9ec9b969e8758176e8e4c758c3c720de6dfdc7e349b66288c2483b",
+    "dist-popup/index.html": "f63a804bad320d16a7cb23179d223e10f2485bdad7c743a0f70c499a9bb14aa7"
+  }
+}
